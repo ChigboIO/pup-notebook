@@ -1,0 +1,19 @@
+PATH
+  remote: ../pup
+  specs:
+    pup (0.1.0)
+      rack
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    rack (1.6.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  pup!
+
+BUNDLED WITH
+   1.10.6
